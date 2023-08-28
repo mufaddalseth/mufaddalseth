@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mufaddal Sethwala</h1>
-<h3 align="center">"Dedicated and Accomplished Web Developer with Strong Leadership" Detail-driven Full Stack Web Developer offering over 2 years of impactful experience in designing and delivering comprehensive web solutions. Demonstrated excellence in executing more than 7 projects and effectively leading teams of up to 12 professionals. Proficient in Python, Flask, and Django for backend development, along with adeptness in front-end technologies such as HTML, CSS, and Bootstrap. Keen to contribute my proven expertise in creating seamless web applications that elevate user experiences and streamline operations.</h3>
+<h3 align="center">Dedicated and Accomplished Web Application Developer with 2+ Years of Experience</h3>
 
 - 🔭 I’m currently working on **a project Using Django as Backend**
 
